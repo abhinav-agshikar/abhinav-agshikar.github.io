@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/abhinav-agshikar.github.io/static/css/main.5f361e03.chunk.css",
-    "main.js": "/abhinav-agshikar.github.io/static/js/main.13b01aeb.chunk.js",
-    "main.js.map": "/abhinav-agshikar.github.io/static/js/main.13b01aeb.chunk.js.map",
-    "runtime-main.js": "/abhinav-agshikar.github.io/static/js/runtime-main.4e8248c2.js",
-    "runtime-main.js.map": "/abhinav-agshikar.github.io/static/js/runtime-main.4e8248c2.js.map",
-    "static/js/2.397933f0.chunk.js": "/abhinav-agshikar.github.io/static/js/2.397933f0.chunk.js",
-    "static/js/2.397933f0.chunk.js.map": "/abhinav-agshikar.github.io/static/js/2.397933f0.chunk.js.map",
-    "index.html": "/abhinav-agshikar.github.io/index.html",
-    "precache-manifest.dd22ada6d2b58d3f0e8f4b727fa2ce0d.js": "/abhinav-agshikar.github.io/precache-manifest.dd22ada6d2b58d3f0e8f4b727fa2ce0d.js",
-    "service-worker.js": "/abhinav-agshikar.github.io/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/abhinav-agshikar.github.io/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.397933f0.chunk.js.LICENSE.txt": "/abhinav-agshikar.github.io/static/js/2.397933f0.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/abhinav-agshikar.github.io/static/media/logo.5d5d9eef.svg"
+    "main.css": "/me/static/css/main.5f361e03.chunk.css",
+    "main.js": "/me/static/js/main.cd7b9b69.chunk.js",
+    "main.js.map": "/me/static/js/main.cd7b9b69.chunk.js.map",
+    "runtime-main.js": "/me/static/js/runtime-main.a77b4b23.js",
+    "runtime-main.js.map": "/me/static/js/runtime-main.a77b4b23.js.map",
+    "static/js/2.397933f0.chunk.js": "/me/static/js/2.397933f0.chunk.js",
+    "static/js/2.397933f0.chunk.js.map": "/me/static/js/2.397933f0.chunk.js.map",
+    "index.html": "/me/index.html",
+    "precache-manifest.1fb70de4dbb62e0b2fcd623f62464acb.js": "/me/precache-manifest.1fb70de4dbb62e0b2fcd623f62464acb.js",
+    "service-worker.js": "/me/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/me/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.397933f0.chunk.js.LICENSE.txt": "/me/static/js/2.397933f0.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/me/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.4e8248c2.js",
+    "static/js/runtime-main.a77b4b23.js",
     "static/js/2.397933f0.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.13b01aeb.chunk.js"
+    "static/js/main.cd7b9b69.chunk.js"
   ]
 }
